@@ -1,0 +1,13 @@
+body {
+	background-color: lightseagreen !important;
+}
+
+/* .cards .col {
+	margin-bottom: 2rem !important;
+} */
+.cards .card {
+	margin-bottom: 2rem !important;
+}
+.cards img {
+	object-fit: cover !important;
+}
